@@ -1,0 +1,5 @@
+K:\dev\gametrack\resources\bin\Release\resources.dll
+K:\dev\gametrack\resources\bin\Release\resources.pdb
+K:\dev\gametrack\resources\obj\Release\ResolveAssemblyReference.cache
+K:\dev\gametrack\resources\obj\Release\resources.dll
+K:\dev\gametrack\resources\obj\Release\resources.pdb

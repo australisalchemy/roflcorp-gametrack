@@ -1,0 +1,26 @@
+C:\Users\skullkid\AppData\Local\Temporary Projects\gametrack\bin\Release\gametrack.exe
+C:\Users\skullkid\AppData\Local\Temporary Projects\gametrack\bin\Release\gametrack.pdb
+C:\Users\skullkid\AppData\Local\Temporary Projects\gametrack\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\skullkid\AppData\Local\Temporary Projects\gametrack\obj\x86\Release\gametrack.frmAddPlayer.resources
+C:\Users\skullkid\AppData\Local\Temporary Projects\gametrack\obj\x86\Release\gametrack.frmGame.resources
+C:\Users\skullkid\AppData\Local\Temporary Projects\gametrack\obj\x86\Release\gametrack.frmStart.resources
+C:\Users\skullkid\AppData\Local\Temporary Projects\gametrack\obj\x86\Release\gametrack.Properties.Resources.resources
+C:\Users\skullkid\AppData\Local\Temporary Projects\gametrack\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\skullkid\AppData\Local\Temporary Projects\gametrack\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\skullkid\AppData\Local\Temporary Projects\gametrack\obj\x86\Release\gametrack.exe
+C:\Users\skullkid\AppData\Local\Temporary Projects\gametrack\obj\x86\Release\gametrack.pdb
+K:\dev\gametrack\gametrack\bin\Release\gametrack.exe.manifest
+K:\dev\gametrack\gametrack\bin\Release\gametrack.application
+K:\dev\gametrack\gametrack\bin\Release\gametrack.exe
+K:\dev\gametrack\gametrack\bin\Release\gametrack.pdb
+K:\dev\gametrack\gametrack\obj\x86\Release\ResolveAssemblyReference.cache
+K:\dev\gametrack\gametrack\obj\x86\Release\gametrack.frmGame.resources
+K:\dev\gametrack\gametrack\obj\x86\Release\gametrack.frmPrompt.resources
+K:\dev\gametrack\gametrack\obj\x86\Release\gametrack.frmStart.resources
+K:\dev\gametrack\gametrack\obj\x86\Release\gametrack.Properties.Resources.resources
+K:\dev\gametrack\gametrack\obj\x86\Release\GenerateResource.read.1.tlog
+K:\dev\gametrack\gametrack\obj\x86\Release\GenerateResource.write.1.tlog
+K:\dev\gametrack\gametrack\obj\x86\Release\gametrack.exe.manifest
+K:\dev\gametrack\gametrack\obj\x86\Release\gametrack.application
+K:\dev\gametrack\gametrack\obj\x86\Release\gametrack.exe
+K:\dev\gametrack\gametrack\obj\x86\Release\gametrack.pdb
